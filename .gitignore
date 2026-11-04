@@ -1,0 +1,10 @@
+# Local research material: Sony firmware, third-party clones, scratch work
+/firmware/
+/repos/
+/work/
+/.codegraph/
+
+# Build output and signing material
+/cleanhdmi/build/
+*.apk
+*.keystore
